@@ -1,3 +1,13 @@
+# Edit by thiswasmadeonawhim
+All images are owned by EXNOA LLC/NITRO PLUS. Find the images used on the Official Line Store:
+- https://store.line.me/emojishop/product/6415539a98ea5c4bae0df06a/ja
+
+If any bugs, contact me at
+- Discord: thiswasmadeonawhim
+- Twitter: @wasmadeonawhim
+
+Original README below
+
 # 合成大西瓜
 
 **声明，本项目仅帮助大家学习技术及娱乐，切勿将修改后的网站大规模传播及商用，以避免侵权！**
